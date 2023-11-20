@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saurav-IIITU
+- 👋 Hi, I’m @Saurav
 - 🙌 Currently pursuing Bachelor of Technology in Information Technology
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Python and C/C++ languages
